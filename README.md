@@ -24,7 +24,7 @@ docker run -d -p 8080:5000 albuquerquefabio/kubedev-conversao-distancia:latest
 
 ```sh
 # Show all containers
-docker containers ls -a
+docker container ls -a
 ```
 
 ```sh
